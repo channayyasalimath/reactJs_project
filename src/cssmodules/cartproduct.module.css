@@ -1,0 +1,13 @@
+
+.productContainer {
+    background-color: rgb(231, 167, 17);
+    margin: 0.5rem;
+    
+  }
+  
+  .product-card{
+    margin: 0.5rem;
+    box-shadow: 1px 3px 4px 5px #ccc;
+    padding: 6px;
+  }
+  
